@@ -3,9 +3,11 @@ Updated version of my Portfolio
 ===============================
 
 Website:   https://requiemdoomed.github.io/Updated-Portfolio/
+
 GitHub:    https://github.com/requiemdoomed
 
-Music credits
+## Music credits
+
   "Analog Mind" and "Mainframe" were composed and synthesized for this site and
   are dedicated to the public domain (CC0 1.0).
   "The Entertainer" is by Scott Joplin (1902) and is in the public domain. It
@@ -14,6 +16,6 @@ Music credits
   ambience is synthesized.
   The interface sounds are generated in the browser.
 
-THANK YOU
----------Evolving daily for tomorrow's tech & advancement.
+## THANK YOU
+
 Thank you for reading, and for taking the time to look through my work.
