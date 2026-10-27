@@ -8,12 +8,11 @@ GitHub:    https://github.com/requiemdoomed
 
 ## Music credits
 
- - "Analog Mind" and "Mainframe" were composed and synthesized for this site and
-  are dedicated to the public domain (CC0 1.0).
- - "The Entertainer" is by Scott Joplin (1902) and is in the public domain. It
-  was rendered from the public-domain score by the Mutopia Project, using the
- - Salamander Grand Piano samples by Alexander Holm (CC BY 3.0). The reading-room
-  ambience is synthesized.
+  "Analog Mind", "Neon Noir" and "Neon Terminal" were composed and synthesized
+  for this site and are dedicated to the public domain (CC0 1.0). "Neon Noir"
+  uses saxophone, trumpet, vibraphone and bass samples from the FluidR3_GM
+  SoundFont by Frank Wen (MIT licence) and the Salamander Grand Piano by
+  Alexander Holm (CC BY 3.0).
 
 ## THANK YOU
 
