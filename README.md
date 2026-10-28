@@ -4,8 +4,6 @@ Updated version of my Portfolio
 
 Website:   https://requiemdoomed.github.io/Updated-Portfolio/
 
-GitHub:    https://github.com/requiemdoomed
-
 ## Music credits
 
   "Analog Mind", "Neon Noir" and "Neon Terminal" were composed and synthesized
